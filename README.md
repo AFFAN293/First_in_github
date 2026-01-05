@@ -1,2 +1,2 @@
-# First_in_github
+# InterShip_Project
 THIS IS MY FIRST GITHUB REPOSITORY
